@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916576822461",
+    "project_id": "githubauth-56606",
+    "storage_bucket": "githubauth-56606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916576822461:android:60e0a65ae6c234dba543d4",
+        "android_client_info": {
+          "package_name": "com.githubauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgI5qSw0uF1Y2vfxSEb-CULinlDpyLd7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
